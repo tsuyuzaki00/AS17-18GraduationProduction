@@ -114,7 +114,7 @@ cut033_robo&juna_Zsindo_.tga
 cut033_dragon_Pencil+4 line_.tga
 cut033_dragon_Zsindo_.tga
 
-cut034_liza_Pencil+4 line_.tga
+cut034_liza_Pencil+4 line_.tga 〇〇
 cut034_liza_Zsindo_.tga
 cut034_nina_Pencil+4 line_.tga
 cut034_nina_Zsindo_.tga
@@ -124,24 +124,24 @@ cut034_robo&juna_Zsindo_.tga
 cut035_dragon_Pencil+4 line_.tga
 cut035_dragon_Zsindo_.tga
 
-cut036_nick_Pencil+4 line_.tga
+cut036_nick_Pencil+4 line_.tga　〇〇
 cut036_nick_Zsindo_.tga
-cut036_liza_Pencil+4 line_.tga
+cut036_liza_Pencil+4 line_.tga　〇〇
 cut036_liza_Zsindo_.tga
-cut036_nina_Pencil+4 line_.tga
+cut036_nina_Pencil+4 line_.tga　△△
 cut036_nina_Zsindo_.tga
 cut036_robo&juna_Pencil+4 line_.tga
 cut036_robo&juna_Zsindo_.tga
 
-cut037_nick_Pencil+4 line_.tga
+cut037_nick_Pencil+4 line_.tga　〇〇
 cut037_nick_Zsindo_.tga
 cut037_dragon_Pencil+4 line_.tga
 cut037_dragon_Zsindo_.tga
 
-cut038_nick_Pencil+4 line_.tga
+cut038_nick_Pencil+4 line_.tga　〇〇
 cut038_nick_Zsindo_.tga
 
-cut039_nick_Pencil+4 line_.tga
+cut039_nick_Pencil+4 line_.tga　〇〇
 cut039_nick_Zsindo_.tga
 cut039_dragon_Pencil+4 line_.tga
 cut039_dragon_Zsindo_.tga
