@@ -1,5 +1,6 @@
 レンダリングエレメント名
 
+
 cut004_nick_Pencil+4 line_.tga
 cut004_nick_Zsindo_.tga
 cut004_liza_Pencil+4 line_.tga
@@ -144,3 +145,14 @@ cut039_nick_Pencil+4 line_.tga
 cut039_nick_Zsindo_.tga
 cut039_dragon_Pencil+4 line_.tga
 cut039_dragon_Zsindo_.tga
+
+nick_Pencil_c0
+nick_Z深度_c0
+liza_Pencil_c0
+liza_Z深度_c0
+nina_Pencil_c0
+nina_Z深度_c0
+robo&juna_Pencil_c0
+robo&juna_Z深度_c0
+dragon_Pencil_c0
+dragon_Z深度_c0
