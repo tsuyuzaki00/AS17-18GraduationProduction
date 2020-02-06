@@ -18,42 +18,42 @@ in ch ae
 〇 cut004_robo&juna_chara_.tga
 〇 cut004_robo&juna_Pencil+4 line_.tga
 
-× cut005-A.aep
-× cut005-A_BG_.tga
-× cut005-A_dragon_chara_.tga
-× cut005-A_dragon_Pencil+4 line_.tga
-× cut005-A_wolf_chara.tga
-× cut005-A_wolf_Pencil+4 line_.tga
+〇 cut005-A.aep
+〇 cut005-A_BG_.tga
+〇 cut005-A_dragon_chara_.tga
+〇 cut005-A_dragon_Pencil+4 line_.tga
+〇 cut005-A_wolf_chara.tga
+〇 cut005-A_wolf_Pencil+4 line_.tga
 
-× cut005-B.aep
-× cut005-B_BG_.tga
-× cut005-B_dragon_chara_.tga
-× cut005-B_dragon_Pencil+4 line_.tga
+〇 cut005-B.aep
+〇 cut005-B_BG_.tga
+〇 cut005-B_dragon_chara_.tga
+〇 cut005-B_dragon_Pencil+4 line_.tga
 
-× cut005-C.aep
-× cut005-C_BG_.tga
-× cut005-C_wolf_chara.tga
-× cut005-C_wolf_Pencil+4 line_.tga
+〇 cut005-C.aep
+〇 cut005-C_BG_.tga
+〇 cut005-C_wolf_chara.tga
+〇 cut005-C_wolf_Pencil+4 line_.tga
 
-× cut005-D.aep
-× cut005-D_BG_.tga
-× cut005-D_dragon_chara_.tga
-× cut005-D_dragon_Pencil+4 line_.tga
-× cut005-D_wolf_chara.tga
-× cut005-D_wolf_Pencil+4 line_.tga
+〇 cut005-D.aep
+〇 cut005-D_BG_.tga
+〇 cut005-D_dragon_chara_.tga
+〇 cut005-D_dragon_Pencil+4 line_.tga
+〇 cut005-D_wolf_chara.tga
+〇 cut005-D_wolf_Pencil+4 line_.tga
 
-× cut005-E.aep
-× cut005-E_BG_.tga
-× cut005-E_wolf_chara.tga
-× cut005-E_wolf_Pencil+4 line_.tga
+〇 cut005-E.aep
+〇 cut005-E_BG_.tga
+〇 cut005-E_wolf_chara.tga
+〇 cut005-E_wolf_Pencil+4 line_.tga
 
-× cut005-F.aep
-× cut005-F_BG_.tga
-× cut005-F_dragon_Pencil+4 line_.tga
-× cut005-F_wolf_chara.tga
-× cut005-F_wolf_Pencil+4 line_.tga
-× cut005-F_nick_chara_.tga
-× cut005-F_nick_Pencil+4 line_.tga
+〇 cut005-F.aep
+〇 cut005-F_BG_.tga
+〇 cut005-F_dragon_Pencil+4 line_.tga
+〇 cut005-F_wolf_chara.tga
+〇 cut005-F_wolf_Pencil+4 line_.tga
+〇 cut005-F_nick_chara_.tga
+〇 cut005-F_nick_Pencil+4 line_.tga
 
 〇 cut006-A.aep
 〇 cut006-A_BG_.tga
