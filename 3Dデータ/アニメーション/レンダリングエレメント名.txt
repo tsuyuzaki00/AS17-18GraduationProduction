@@ -141,8 +141,8 @@ in ch ae
 〇 cut029_robo&juna_chara_.tga
 〇 cut029_robo&juna_Pencil+4 line_.tga
 
-× cut030.aep
-× cut030-1chara_BG_.tga
+〇 cut030.aep
+〇 cut030-1chara_BG_.tga
 × cut030-1chara_nick_chara_.tga
 × cut030-1chara_nick_Pencil+4 line_.tga
 × cut030-1chara_liza_chara_.tga
@@ -150,7 +150,7 @@ in ch ae
 × cut030-1chara_nina_chara_.tga
 × cut030-1chara_nina_Pencil+4 line_.tga
 
-× cut030-1dra_BG_.tga
+〇 cut030-1dra_BG_.tga
 × cut030-1dra_dragon_chara_.tga
 × cut030-1dra_dragon_Pencil+4 line_.tga
 
@@ -158,7 +158,7 @@ in ch ae
 × cut030-1robo_robo&juna_chara_.tga
 × cut030-1robo_robo&juna_Pencil+4 line_.tga
 
-× cut030-2chara_BG_.tga
+〇 cut030-2chara_BG_.tga
 × cut030-2chara_nick_chara_.tga
 × cut030-2chara_nick_Pencil+4 line_.tga
 × cut030-2chara_liza_chara_.tga
@@ -166,15 +166,15 @@ in ch ae
 × cut030-2chara_nina_chara_.tga
 × cut030-2chara_nina_Pencil+4 line_.tga
 
-× cut030-2dra_BG_.tga
+〇 cut030-2dra_BG_.tga
 × cut030-2dra_dragon_chara_.tga
 × cut030-2dra_dragon_Pencil+4 line_.tga
 
-× cut030-2robo_BG_.tga
+〇 cut030-2robo_BG_.tga
 × cut030-2robo_robo&juna_chara_.tga
 × cut030-2robo_robo&juna_Pencil+4 line_.tga
 
-× cut030-3chara_BG_.tga
+〇 cut030-3chara_BG_.tga
 × cut030-3chara_nick_chara_.tga
 × cut030-3chara_nick_Pencil+4 line_.tga
 × cut030-3chara_liza_chara_.tga
@@ -182,15 +182,15 @@ in ch ae
 × cut030-3chara_nina_chara_.tga
 × cut030-3chara_nina_Pencil+4 line_.tga
 
-× cut030-3dra_BG_.tga
+〇 cut030-3dra_BG_.tga
 × cut030-3dra_dragon_chara_.tga
 × cut030-3dra_dragon_Pencil+4 line_.tga
 
-× cut030-3robo_BG_.tga
+〇 cut030-3robo_BG_.tga
 × cut030-3robo_robo&juna_chara_.tga
 × cut030-3robo_robo&juna_Pencil+4 line_.tga
 
-× cut030-4chara_BG_.tga
+〇 cut030-4chara_BG_.tga
 × cut030-4chara_nick_chara_.tga
 × cut030-4chara_nick_Pencil+4 line_.tga
 × cut030-4chara_liza_chara_.tga
