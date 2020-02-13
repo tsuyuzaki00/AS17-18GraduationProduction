@@ -1,349 +1,287 @@
 レンダリングエレメント名
+〇 出来ている
+× 出来ていない
 
-cut004_BG_.tga
-cut004_nick_chara_.tga
-cut004_nick_Pencil+4 line_.tga
-cut004_nick_shadow_.tga
-#cut004_nick_Zsindo_.tga
-cut004_liza_chara_.tga
-cut004_liza_Pencil+4 line_.tga
-cut004_liza_shadow_.tga
-#cut004_liza_Zsindo_.tga
-cut004_nina_chara_.tga
-cut004_nina_Pencil+4 line_.tga
-cut004_nina_shadow_.tga
-#cut004_nina_Zsindo_.tga
-cut004_robo&juna_chara_.tga
-cut004_robo&juna_Pencil+4 line_.tga
-cut004_robo&juna_shadow_.tga
-#cut004_robo&juna_Zsindo_.tga
+in:素材があるかないか
+ch:完成した素材があるかないか
+ae:AEが完成しているか
 
-cut005-A_BG_.tga
-cut005-A_dragon_chara_.tga
-cut005-A_dragon_Pencil+4 line_.tga
-cut005-A_dragon_shadow_.tga
-#cut005-A_dragon_Zsindo_.tga
-cut005-A_wolf_chara.tga
-cut005-A_wolf_Pencil+4 line_.tga
-cut005-A_wolf_shadow_.tga
-#cut005-A_wolf_Zsindo_.tga
-cut005-B_BG_.tga
-cut005-B_dragon_chara_.tga
-cut005-B_dragon_Pencil+4 line_.tga
-cut005-B_dragon_shadow_.tga
-#cut005-B_dragon_Zsindo_.tga
-cut005-C_BG_.tga
-cut005-C_wolf_chara.tga
-cut005-C_wolf_Pencil+4 line_.tga
-cut005-C_wolf_shadow_.tga
-#cut005-C_wolf_Zsindo_.tga
-cut005-D_BG_.tga
-cut005-D_dragon_chara_.tga
-cut005-D_dragon_Pencil+4 line_.tga
-cut005-D_dragon_shadow.tga
-#cut005-D_dragon_Zsindo_.tga
-cut005-D_wolf_chara.tga
-cut005-D_wolf_Pencil+4 line_.tga
-cut005-D_wolf_shadow.tga
-#cut005-D_wolf_Zsindo_.tga
-cut005-E_BG_.tga
-cut005-E_wolf_chara.tga
-cut005-E_wolf_Pencil+4 line_.tga
-cut005-E_wolf_shadow.tga
-#cut005-E_wolf_Zsindo_.tga
-cut005-F_BG_.tga
-cut005-F_dragon_Pencil+4 line_.tga
-cut005-F_dragon_shadow.tga
-#cut005-F_dragon_Zsindo_.tga
-cut005-F_wolf_chara.tga
-cut005-F_wolf_Pencil+4 line_.tga
-cut005-F_wolf_shadow.tga
-#cut005-F_wolf_Zsindo_.tga
-cut005-F_nick_chara_.tga
-cut005-F_nick_Pencil+4 line_.tga
-cut005-F_nick_shadow.tga
-#cut005-F_nick_Zsindo_.tga
+in ch ae
+〇 cut004.aep
+〇 cut004_BG_.tga
+〇 cut004_nick_chara_.tga
+〇 cut004_nick_Pencil+4 line_.tga
+〇 cut004_liza_chara_.tga
+〇 cut004_liza_Pencil+4 line_.tga
+〇 cut004_nina_chara_.tga
+〇 cut004_nina_Pencil+4 line_.tga
+〇 cut004_robo&juna_chara_.tga
+〇 cut004_robo&juna_Pencil+4 line_.tga
 
-cut006-A_BG_.tga
-cut006-A_nick_chara_.tga
-cut006-A_nick_Pencil+4 line_.tga
-cut006-A_nick_shadow_.tga
-#cut006-A_nick_Zsindo_.tga
-cut006-A_liza_chara_.tga
-cut006-A_liza_Pencil+4 line_.tga
-cut006-A_liza_shadow_.tga
-#cut006-A_liza_Zsindo_.tga
-cut006-A_nina_chara_.tga
-cut006-A_nina_Pencil+4 line_.tga
-cut006-A_nina_shadow_.tga
-#cut006-A_nina_Zsindo_.tga
-cut006-A_robo&juna_chara_.tga
-cut006-A_robo&juna_Pencil+4 line_.tga
-cut006-A_robo&juna_shadow_.tga
-#cut006-A_robo&juna_Zsindo_.tga
-cut006-A_dragon_chara_.tga
-cut006-A_dragon_Pencil+4 line_.tga
-cut006-A_dragon_shadow_.tga
-#cut006-A_dragon_Zsindo_.tga
+〇 cut005-A.aep
+〇 cut005-A_BG_.tga
+〇 cut005-A_dragon_chara_.tga
+〇 cut005-A_dragon_Pencil+4 line_.tga
+〇 cut005-A_wolf_chara.tga
+〇 cut005-A_wolf_Pencil+4 line_.tga
 
-cut006-B_BG_.tga
-cut006-B_nick_chara_.tga
-cut006-B_nick_Pencil+4 line_.tga
-cut006-B_nick_shadow_.tga
-#cut006-B_nick_Zsindo_.tga
-cut006-B_nina_chara_.tga
-cut006-B_nina_Pencil+4 line_.tga
-cut006-B_nina_shadow_.tga
-#cut006-B_nina_Zsindo_.tga
+〇 cut005-B.aep
+〇 cut005-B_BG_.tga
+〇 cut005-B_dragon_chara_.tga
+〇 cut005-B_dragon_Pencil+4 line_.tga
 
+〇 cut005-C.aep
+〇 cut005-C_BG_.tga
+〇 cut005-C_wolf_chara.tga
+〇 cut005-C_wolf_Pencil+4 line_.tga
 
-cut007_BG_.tga
-cut007_nick_chara_.tga
-cut007_nick_Pencil+4 line_.tga
-cut007_nick_shadow_.tga
-#cut007_nick_Zsindo_.tga
-cut007_nina_chara_.tga
-cut007_nina_Pencil+4 line_.tga
-cut007_nina_shadow_.tga
-#cut007_nina_Zsindo_.tga
+〇 cut005-D.aep
+〇 cut005-D_BG_.tga
+〇 cut005-D_dragon_chara_.tga
+〇 cut005-D_dragon_Pencil+4 line_.tga
+〇 cut005-D_wolf_chara.tga
+〇 cut005-D_wolf_Pencil+4 line_.tga
 
-cut008_BG_.tga
-cut008_nick_chara_.tga
-cut008_nick_Pencil+4 line_.tga
-cut008_nick_shadow_.tga
-#cut008_nick_Zsindo_.tga
-cut008_dragon_chara_.tga
-cut008_dragon_Pencil+4 line_.tga
-cut008_dragon_shadow_.tga
-#cut008_dragon_Zsindo_.tga
+〇 cut005-E.aep
+〇 cut005-E_BG_.tga
+〇 cut005-E_wolf_chara.tga
+〇 cut005-E_wolf_Pencil+4 line_.tga
 
-cut009_BG_.tga
-cut009_nick_chara_.tga
-cut009_nick_Pencil+4 line_.tga
-cut009_nick_shadow_.tga
-#cut009_nick_Zsindo_.tga
+〇 cut005-F.aep
+〇 cut005-F_BG_.tga
+〇 cut005-F_dragon_Pencil+4 line_.tga
+〇 cut005-F_wolf_chara.tga
+〇 cut005-F_wolf_Pencil+4 line_.tga
+〇 cut005-F_nick_chara_.tga
+〇 cut005-F_nick_Pencil+4 line_.tga
 
-cut010_BG_.tga
-cut010_nick_chara_.tga
-cut010_nick_Pencil+4 line_.tga
-cut010_nick_shadow_.tga
-#cut010_nick_Zsindo_.tga
-cut010_dragon_chara_.tga
-cut010_dragon_Pencil+4 line_.tga
-cut010_dragon_shadow_.tga
-#cut010_dragon_Zsindo_.tga
+〇 cut006-A.aep
+〇 cut006-A_BG_.tga
+〇 cut006-A_nick_chara_.tga
+〇 cut006-A_nick_Pencil+4 line_.tga
+〇 cut006-A_liza_chara_.tga
+〇 cut006-A_liza_Pencil+4 line_.tga
+〇 cut006-A_nina_chara_.tga
+〇 cut006-A_nina_Pencil+4 line_.tga
+〇 cut006-A_robo&juna_chara_.tga
+〇 cut006-A_robo&juna_Pencil+4 line_.tga
 
-cut011_BG_.tga
-cut011_nick_chara_.tga
-cut011_nick_Pencil+4 line_.tga
-cut011_nick_shadow_.tga
-#cut011_nick_Zsindo_.tga
-cut011_dragon_chara_.tga
-cut011_dragon_Pencil+4 line_.tga
-cut011_dragon_shadow_.tga
-#cut011_dragon_Zsindo_.tga
+〇 cut006-B.aep
+〇 cut006-B_BG_.tga
+〇 cut006-B_nick_chara_.tga
+〇 cut006-B_nick_Pencil+4 line_.tga
 
-cut013_BG_.tga
-cut013_nick_chara_.tga
-cut013_nick_Pencil+4 line_.tga
-cut013_nick_shadow_.tga
-#cut013_nick_Zsindo_.tga
-cut013_liza_chara_.tga
-cut013_liza_Pencil+4 line_.tga
-cut013_liza_shadow_.tga
-#cut013_liza_Zsindo_.tga
+〇 cut007.aep
+〇 cut007_BG_.tga
+〇 cut007_nick_chara_.tga
+〇 cut007_nick_Pencil+4 line_.tga
+〇 cut007_nina_chara_.tga
+〇 cut007_nina_Pencil+4 line_.tga
 
-cut014_BG_.tga
-cut014_nick_chara_.tga
-cut014_nick_Pencil+4 line_.tga
-cut014_nick_shadow_.tga
-#cut014_nick_Zsindo_.tga
-cut014_liza_chara_.tga
-cut014_liza_Pencil+4 line_.tga
-cut014_liza_shadow_.tga
-#cut014_liza_Zsindo_.tga
+〇 cut008.aep
+〇 cut008_BG_.tga
+〇 cut008_nick_chara_.tga
+〇 cut008_nick_Pencil+4 line_.tga
+〇 cut008_dragon_chara_.tga
+〇 cut008_dragon_Pencil+4 line_.tga
 
-cut027_BG_.tga
-cut027_dragon_chara_.tga
-cut027_dragon_Pencil+4 line_.tga
-cut027_dragon_shadow_.tga
-#cut027_dragon_Zsindo_.tga
+〇 cut009.aep
+〇 cut009_BG_.tga
+〇 cut009_nick_chara_.tga
+〇 cut009_nick_Pencil+4 line_.tga
 
-cut028_BG_.tga
-cut028_nick_chara_.tga
-cut028_nick_Pencil+4 line_.tga
-cut028_nick_shadow_.tga
-#cut028_nick_Zsindo_.tga
-cut028_liza_chara_.tga
-cut028_liza_Pencil+4 line_.tga
-cut028_liza_shadow_.tga
-#cut028_liza_Zsindo_.tga
-cut028_nina_chara_.tga
-cut028_nina_Pencil+4 line_.tga
-cut028_nina_shadow_.tga
-#cut028_nina_Zsindo_.tga
-cut028_robo&juna_chara_.tga
-cut028_robo&juna_Pencil+4 line_.tga
-cut028_robo&juna_shadow_.tga
-#cut028_robo&juna_Zsindo_.tga
-cut028_dragon_chara_.tga
-cut028_dragon_Pencil+4 line_.tga
-cut028_dragon_shadow_.tga
-#cut028_dragon_Zsindo_.tga
+〇 cut010.aep
+× cut010_BG_.tga
+〇 cut010_nick_chara_.tga
+〇 cut010_nick_Pencil+4 line_.tga
+〇 cut010_dragon_chara_.tga
+〇 cut010_dragon_Pencil+4 line_.tga
 
-cut029_BG_.tga
-cut029_robo&juna_chara_.tga
-cut029_robo&juna_Pencil+4 line_.tga
-cut029_robo&juna_shadow_.tga
-#cut029_robo&juna_Zsindo_.tga
+〇 cut011.aep
+× cut011_BG_.tga
+〇 cut011_nick_chara_.tga
+〇 cut011_nick_Pencil+4 line_.tga
+〇 cut011_dragon_chara_.tga
+〇 cut011_dragon_Pencil+4 line_.tga
 
-cut030_BG_.tga
-cut030_nick_chara_.tga
-cut030_nick_Pencil+4 line_.tga
-cut030_nick_shadow_.tga
-#cut030_nick_Zsindo_.tga
-cut030_liza_chara_.tga
-cut030_liza_Pencil+4 line_.tga
-cut030_liza_shadow_.tga
-#cut030_liza_Zsindo_.tga
-cut030_nina_chara_.tga
-cut030_nina_Pencil+4 line_.tga
-cut030_nina_shadow_.tga
-#cut030_nina_Zsindo_.tga
-cut030_robo&juna_chara_.tga
-cut030_robo&juna_Pencil+4 line_.tga
-cut030_robo&juna_shadow_.tga
-#cut030_robo&juna_Zsindo_.tga
-cut030_dragon_chara_.tga
-cut030_dragon_Pencil+4 line_.tga
-cut030_dragon_shadow_.tga
-#cut030_dragon_Zsindo_.tga
+〇 cut013.aep
+〇 cut013_BG_.tga
+〇 cut013_nick_chara_.tga
+〇 cut013_nick_Pencil+4 line_.tga
+〇 cut013_liza_chara_.tga
+〇 cut013_liza_Pencil+4 line_.tga
 
-cut031_BG_.tga
-cut031_nick_chara_.tga
-cut031_nick_Pencil+4 line_.tga
-cut031_nick_shadow_.tga
-#cut031_nick_Zsindo_.tga
-cut031_liza_chara_.tga
-cut031_liza_Pencil+4 line_.tga
-cut031_liza_shadow_.tga
-#cut031_liza_Zsindo_.tga
-cut031_nina_chara_.tga
-cut031_nina_Pencil+4 line_.tga
-cut031_nina_shadow_.tga
-#cut031_nina_Zsindo_.tga
-cut031_robo&juna_chara_.tga
-cut031_robo&juna_Pencil+4 line_.tga
-cut031_robo&juna_shadow_.tga
-#cut031_robo&juna_Zsindo_.tga
+〇 cut014.aep
+〇 cut014_BG_.tga
+〇 cut014_nick_chara_.tga
+〇 cut014_nick_Pencil+4 line_.tga
+〇 cut014_liza_chara_.tga
+〇 cut014_liza_Pencil+4 line_.tga
 
-cut032_BG_.tga
-cut032_nick_chara_.tga
-cut032_nick_Pencil+4 line_.tga
-cut032_nick_shadow_.tga
-#cut032_nick_Zsindo_.tga
-cut032_liza_chara_.tga
-cut032_liza_Pencil+4 line_.tga
-cut032_liza_shadow_.tga
-#cut032_liza_Zsindo_.tga
-cut032_nina_chara_.tga
-cut032_nina_Pencil+4 line_.tga
-cut032_nina_shadow_.tga
-#cut032_nina_Zsindo_.tga
-cut032_robo&juna_chara_.tga
-cut032_robo&juna_Pencil+4 line_.tga
-cut032_robo&juna_shadow_.tga
-#cut032_robo&juna_Zsindo_.tga
+〇 cut027.aep
+〇 cut027_BG_.tga
+〇 cut027_dragon_chara_.tga
+〇 cut027_dragon_Pencil+4 line_.tga
 
-cut033-A_BG_.tga
-cut033-A_dragon_chara_.tga
-cut033-A_dragon_Pencil+4 line_.tga
-cut033-A_dragon_shadow_.tga
-#cut033-A_dragon_Zsindo_.tga
-cut033-B_BG_.tga
-cut033-B_robo&juna_chara_.tga
-cut033-B_robo&juna_Pencil+4 line_.tga
-cut033-B_robo&juna_shadow_.tga
-#cut033-B_robo&juna_Zsindo_.tga
-cut033-C_BG_.tga
-cut033-C_dragon_chara_.tga
-cut033-C_dragon_Pencil+4 line_.tga
-cut033-C_dragon_shadow_.tga
-#cut033-C_dragon_Zsindo_.tga
+〇 cut028.aep
+〇 cut028_BG_.tga
+〇 cut028_nick_chara_.tga
+〇 cut028_nick_Pencil+4 line_.tga
+〇 cut028_liza_chara_.tga
+〇 cut028_liza_Pencil+4 line_.tga
+〇 cut028_nina_chara_.tga
+〇 cut028_nina_Pencil+4 line_.tga
+× cut028_robo&juna_chara_.tga
+× cut028_robo&juna_Pencil+4 line_.tga
+〇 cut028_dragon_chara_.tga
+〇 cut028_dragon_Pencil+4 line_.tga
 
+〇 cut029.aep
+〇 cut029_BG_.tga
+〇 cut029_robo&juna_chara_.tga
+〇 cut029_robo&juna_Pencil+4 line_.tga
 
-cut034_BG_.tga
-〇cut034_liza_chara_.tga
-〇cut034_liza_Pencil+4 line_.tga
-cut034_liza_shadow_.tga
-#cut034_liza_Zsindo_.tga
-cut034_nina_chara_.tga
-cut034_nina_Pencil+4 line_.tga
-cut034_nina_shadow_.tga
-#cut034_nina_Zsindo_.tga
-cut034_robo&juna_chara_.tga
-cut034_robo&juna_Pencil+4 line_.tga
-cut034_robo&juna_shadow_.tga
-#cut034_robo&juna_Zsindo_.tga
+× cut030.aep
+× cut030-1chara_BG_.tga
+× cut030-1chara_nick_chara_.tga
+× cut030-1chara_nick_Pencil+4 line_.tga
+× cut030-1chara_liza_chara_.tga
+× cut030-1chara_liza_Pencil+4 line_.tga
+× cut030-1chara_nina_chara_.tga
+× cut030-1chara_nina_Pencil+4 line_.tga
 
-cut035_BG_.tga
-cut035_dragon_chara_.tga
-cut035_dragon_Pencil+4 line_.tga
-cut035_dragon_shadow_.tga
-c#ut035_dragon_Zsindo_.tga
+× cut030-1dra_BG_.tga
+× cut030-1dra_dragon_chara_.tga
+× cut030-1dra_dragon_Pencil+4 line_.tga
 
-cut036_BG_.tga
-〇cut036_nick_chara_.tga
-〇cut036_nick_Pencil+4 line_.tga
-cut036_nick_shadow_.tga
-#cut036_nick_Zsindo_.tga
-〇cut036_liza_chara_.tga
-〇cut036_liza_Pencil+4 line_.tga
-cut036_liza_shadow_.tga
-#cut036_liza_Zsindo_.tga
-△cut036_nina_chara_.tga
-△cut036_nina_Pencil+4 line_.tga
-cut036_nina_shadow_.tga
-#cut036_nina_Zsindo_.tga
-cut036_robo&juna_chara_.tga
-cut036_robo&juna_Pencil+4 line_.tga
-cut036_robo&juna_shadow.tga
-#cut036_robo&juna_Zsindo_.tga
+× cut030-1robo_BG_.tga
+× cut030-1robo_robo&juna_chara_.tga
+× cut030-1robo_robo&juna_Pencil+4 line_.tga
 
-cut037_BG_.tga
-〇cut037_nick_chara_.tga
-〇cut037_nick_Pencil+4 line_.tga
-cut037_nick_shadow_.tga
-#cut037_nick_Zsindo_.tga
-cut037_dragon_chara_.tga
-cut037_dragon_Pencil+4 line_.tga
-cut037_dragon_shadow_.tga
-#cut037_dragon_Zsindo_.tga
+× cut030-2chara_BG_.tga
+× cut030-2chara_nick_chara_.tga
+× cut030-2chara_nick_Pencil+4 line_.tga
+× cut030-2chara_liza_chara_.tga
+× cut030-2chara_liza_Pencil+4 line_.tga
+× cut030-2chara_nina_chara_.tga
+× cut030-2chara_nina_Pencil+4 line_.tga
 
-〇cut038_BG_.tga
-〇cut038_nick_chara_.tga
-〇cut038_nick_Pencil+4 line_.tga
-〇cut038_nick_shadow_.tga
-#cut038_nick_Zsindo_.tga
+× cut030-2dra_BG_.tga
+× cut030-2dra_dragon_chara_.tga
+× cut030-2dra_dragon_Pencil+4 line_.tga
 
-〇cut039_mainRock_.tga
-〇cut039_BG_.tga
-〇cut039_nick_chara_.tga
-〇cut039_nick_Pencil+4 line_.tga
-cut039_nick_shadow_.tga
-#cut039_nick_Zsindo_.tga
-〇cut039_dragon_chara_.tga
-〇cut039_dragon_Pencil+4 line_.tga
-cut039_dragon_shadow_.tga
-#cut039_dragon_Zsindo_.tga
+× cut030-2robo_BG_.tga
+× cut030-2robo_robo&juna_chara_.tga
+× cut030-2robo_robo&juna_Pencil+4 line_.tga
+
+× cut030-3chara_BG_.tga
+× cut030-3chara_nick_chara_.tga
+× cut030-3chara_nick_Pencil+4 line_.tga
+× cut030-3chara_liza_chara_.tga
+× cut030-3chara_liza_Pencil+4 line_.tga
+× cut030-3chara_nina_chara_.tga
+× cut030-3chara_nina_Pencil+4 line_.tga
+
+× cut030-3dra_BG_.tga
+× cut030-3dra_dragon_chara_.tga
+× cut030-3dra_dragon_Pencil+4 line_.tga
+
+× cut030-3robo_BG_.tga
+× cut030-3robo_robo&juna_chara_.tga
+× cut030-3robo_robo&juna_Pencil+4 line_.tga
+
+× cut030-4chara_BG_.tga
+× cut030-4chara_nick_chara_.tga
+× cut030-4chara_nick_Pencil+4 line_.tga
+× cut030-4chara_liza_chara_.tga
+× cut030-4chara_liza_Pencil+4 line_.tga
+× cut030-4chara_nina_chara_.tga
+× cut030-4chara_nina_Pencil+4 line_.tga
+
+〇 cut031.aep
+〇 cut031_BG_.tga
+〇 cut031_nick_chara_.tga
+〇 cut031_nick_Pencil+4 line_.tga
+〇 cut031_liza_chara_.tga
+〇 cut031_liza_Pencil+4 line_.tga
+〇 cut031_nina_chara_.tga
+〇 cut031_nina_Pencil+4 line_.tga
+〇 cut031_robo&juna_chara_.tga
+〇 cut031_robo&juna_Pencil+4 line_.tga
+
+〇 cut032.aep
+〇 cut032_BG_.tga
+〇 cut032_nick_chara_.tga
+〇 cut032_nick_Pencil+4 line_.tga
+〇 cut032_liza_chara_.tga
+〇 cut032_liza_Pencil+4 line_.tga
+〇 cut032_nina_chara_.tga
+〇 cut032_nina_Pencil+4 line_.tga
+〇 cut032_robo&juna_chara_.tga
+〇 cut032_robo&juna_Pencil+4 line_.tga
+
+〇 cut033-A.aep
+× cut033-A_BG_.tga
+× cut033-A_dragon_chara_.tga
+× cut033-A_dragon_Pencil+4 line_.tga
+
+〇 cut033-B.aep
+× cut033-B_BG_.tga
+× cut033-B_robo&juna_chara_.tga
+× cut033-B_robo&juna_Pencil+4 line_.tga
+
+〇 cut033-C.aep
+× cut033-C_BG_.tga
+× cut033-C_dragon_chara_.tga
+× cut033-C_dragon_Pencil+4 line_.tga
+
+〇 〇 cut034.aep
+〇 〇 cut034_BG.tga
+〇 〇 cut034_liza_chara_.tga
+〇 〇 cut034_liza_Pencil+4 line_.tga
+〇 〇 cut034_nina_chara_.tga
+〇 〇 cut034_nina_Pencil+4 line_.tga
+〇 〇 cut034_robo&juna_chara_.tga
+〇 〇 cut034_robo&juna_Pencil+4 line_.tga
+
+〇 cut035.aep
+× cut035_BG_.tga
+〇 cut035_dragon_chara_.tga
+〇 cut035_dragon_Pencil+4 line_.tga
+
+〇 cut036.aep
+〇 cut036_BG_.tga
+〇 cut036_nick_chara_.tga
+〇 cut036_nick_Pencil+4 line_.tga
+〇 cut036_liza_chara_.tga
+〇 cut036_liza_Pencil+4 line_.tga
+〇 cut036_nina_chara_.tga
+〇 cut036_nina_Pencil+4 line_.tga
+× cut036_robo&juna_chara_.tga
+× cut036_robo&juna_Pencil+4 line_.tga
+
+〇 cut037.aep
+〇 cut037_BG_.tga
+〇 cut037_nick_chara_.tga
+〇 cut037_nick_Pencil+4 line_.tga
+〇 cut037_dragon_chara_.tga
+〇 cut037_dragon_Pencil+4 line_.tga
+
+〇 cut038.aep
+〇 cut038_BG_.tga
+〇 cut038_nick_chara_.tga
+〇 cut038_nick_Pencil+4 line_.tga
+
+〇 cut039.aep
+〇 cut039_mainRock_.tga
+〇 cut039_BG_.tga
+〇 cut039_nick_chara_.tga
+〇 cut039_nick_Pencil+4 line_.tga
+〇 cut039_dragon_chara_.tga
+〇 cut039_dragon_Pencil+4 line_.tga
 
 nick_Pencil_c0
-nick_Z深度_c0
 liza_Pencil_c0
-liza_Z深度_c0
 nina_Pencil_c0
-nina_Z深度_c0
 robo&juna_Pencil_c0
-robo&juna_Z深度_c0
 dragon_Pencil_c0
-dragon_Z深度_c0
